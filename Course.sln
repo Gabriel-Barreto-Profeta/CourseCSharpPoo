@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enumerator", "Course\Enumer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaPolimorfismo", "HerancaPolimorfismo\HerancaPolimorfismo.csproj", "{580DCDAE-65F8-4153-81DE-849FFD56EE52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JogoXadrez", "Xadrez\JogoXadrez.csproj", "{D73EE42E-54E9-4EA3-8144-6CBBB7E27FAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{580DCDAE-65F8-4153-81DE-849FFD56EE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{580DCDAE-65F8-4153-81DE-849FFD56EE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{580DCDAE-65F8-4153-81DE-849FFD56EE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73EE42E-54E9-4EA3-8144-6CBBB7E27FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73EE42E-54E9-4EA3-8144-6CBBB7E27FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73EE42E-54E9-4EA3-8144-6CBBB7E27FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73EE42E-54E9-4EA3-8144-6CBBB7E27FAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
